@@ -1,0 +1,32 @@
+{
+  "name": "simple-threads",
+  "version": "0.0.0",
+  "description": "A require like thread module for node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "base64": "~2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atd-schubert/node-simple-threads.git"
+  },
+  "keywords": [
+    "thread",
+    "require",
+    "process",
+    "net",
+    "performance"
+  ],
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/atd-schubert/node-simple-threads/issues"
+  }
+}

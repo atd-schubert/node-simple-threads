@@ -1,0 +1,1 @@
+setTimeout(function(){thread.exports = {str:"3s delay...", delay:true};}, 3000);
